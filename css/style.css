@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
   }
-  .nav-link.active !important{
+  .nav-link.active {
     color: #daa520 ;
   }
   .woodies-text-center {
@@ -35,4 +35,19 @@ body {
   .woodies-furniture p {
     font-size: 1.5rem;
     font-weight: 600;
+  }
+  .cucharones{
+    background: url(../img/cucharones.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 384px;
+    width: 32%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+  }
+  .text-gray{
+      color: rgba(34, 34, 34, 0.2);
+      font-size: 3rem;
   }
