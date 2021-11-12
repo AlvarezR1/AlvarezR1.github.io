@@ -21,8 +21,8 @@ body {
     display: flex;
     align-items: center;
   }
-  .nav-link.active {
-    color: #daa520 !important;
+  .nav-link.active !important{
+    color: #daa520 ;
   }
   .woodies-text-center {
     display: flex;
