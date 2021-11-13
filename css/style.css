@@ -86,3 +86,6 @@ body {
     top: 0;
     z-index: -1;
   }
+  .container-kit{
+    padding: 4em;
+  }
