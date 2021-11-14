@@ -62,10 +62,9 @@ body {
   .list{
     padding: 5em;
   }
-  .second-buttom{
+  .bottom-middle{
     padding: 5em;
-    align-items: right;
-    color: #ffffff;
+    padding-left: 27em;
   }
   .container-tres{
     height: 550px;
@@ -88,4 +87,21 @@ body {
   }
   .container-kit{
     padding: 4em;
+  }
+  .comment{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+  }
+  .centrado{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .user{
+    padding-left: 2em;
+  }
+  .text-foot{
+    font-size: 20px;
   }
