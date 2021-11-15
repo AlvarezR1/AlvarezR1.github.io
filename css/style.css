@@ -85,6 +85,9 @@ body {
     top: 0;
     z-index: -1;
   }
+  .foot{
+    text-align: center;
+  }
   .container-kit{
     padding: 4em;
   }
@@ -104,4 +107,11 @@ body {
   }
   .text-foot{
     font-size: 20px;
+  }
+  .line-end{
+    align-items: center;
+  }
+  .final-text{
+    padding: 1em;
+    font-size: 18px;
   }
